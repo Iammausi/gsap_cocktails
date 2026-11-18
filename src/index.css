@@ -50,7 +50,7 @@ body {
       transparent 100%);
 }
 
-@utility masked-img {
+@utility image-mask {
   mask-image: url("/images/mask-img.png");
   mask-repeat: no-repeat;
   mask-position: center;

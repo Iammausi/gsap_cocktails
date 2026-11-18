@@ -59,7 +59,13 @@ const Art = () => {
                         <img
                             src="/images/under-img.jpg"
                             alt="cocktail"
-                            className='abs-center masked-img size-full object-contain'
+                            className='abs-center image-mask size-full object-contain'
+                        />
+                        <img
+                            src="/images/under-img.jpg"
+                            alt=""
+                            aria-hidden="true"
+                            className='abs-center image-mask masked-img size-full object-contain'
                         />
                     </div>
 
